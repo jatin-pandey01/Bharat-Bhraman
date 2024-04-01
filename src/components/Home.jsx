@@ -87,7 +87,7 @@ const SpringModal = ({ isOpen, setIsOpen }) => {
                 >
                   Not Now
                 </button>
-                <a className="w-[100%]" href="https://hacksparrow-quiz.vercel.app/">
+                <a className="w-[100%]" href="https://bharat-bhraman-alpha.vercel.app/">
                   <button
                     onClick={() => setIsOpen(false)}
                     className="bg-white hover:opacity-90 transition-opacity text-[#1A76D1] font-semibold w-full py-2 rounded"

@@ -9,11 +9,7 @@ import ChittorgarhFort from './Page/ChittorgarhFort'
 import Live from './Page/Live'
 import Contact from './Page/Contact'
 
-
 function App() {
- 
- 
-  
   return (
     <>
       <Routes>
